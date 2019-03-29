@@ -15,4 +15,5 @@
 >* 对图片数据进行清洗，过滤缩略图，并将图片保存到本地。
 ### 2.责任描述：
 >*  编写爬虫程序，数据提取和清洗
->*
+### 3.效果：
+![效果](https://github.com/ChenHangKeep/Spiders/blob/master/pexels/1.png)
